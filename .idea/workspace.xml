@@ -33,7 +33,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "test__d",
     "last_opened_file_path": "C:/Users/Aymane/Desktop/Projet/prix_carburant",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706825027552</updated>
-      <workItem from="1706825028636" duration="718000" />
+      <workItem from="1706825028636" duration="1234000" />
     </task>
     <servers />
   </component>
